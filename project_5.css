@@ -1,0 +1,53 @@
+body {
+    background-color: #090808;
+    color: #ffffff;
+}
+
+#div1 {
+    font-size: larger;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+label input {
+    border-radius: 13px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+div p {
+    font-size: x-large;
+}
+
+#div2 {
+    list-style: none;
+    justify-content: center;
+    display: flex;
+    border-spacing: 10px 20px;
+    align-items: center;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #444;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 10px; /* Add some margin for spacing */
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#newgame {
+    margin-top: 20px;
+    
+}
